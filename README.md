@@ -1,5 +1,5 @@
-# albanv.github.io
-** My Resume
+#albanv.github.io
+##Resume
 
 This resume website is based on [ResumeCards](https://github.com/ellekasai/resumecards) by [Elle Kasai](http://ellekasai.com/), a Markdown based resume generator.
 
