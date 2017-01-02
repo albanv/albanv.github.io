@@ -482,10 +482,11 @@ script + p {
   }
 
   .resume-pic {
-    float: none;
+    // float: none;
     margin-bottom: $space-sm;
 
     + .resume-baseinfo {
+      margin-top: $space-sm + $space-xs;
       margin-left: 0;
     }
   }
